@@ -1,0 +1,8 @@
+{application, erpc, [
+  {id, "erpc"},
+  {description, "External RPC calls for erlang"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+  {env, []}
+]}.
